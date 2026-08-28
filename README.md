@@ -105,6 +105,8 @@ This project is for educational purposes only. All tools were used on authorized
 - Networkwalks Password Cracker: https://networkwalks.com/password-cracker/
 
 
+---
+
 
 👤 **Author**
 
