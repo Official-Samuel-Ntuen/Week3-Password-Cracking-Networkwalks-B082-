@@ -5,7 +5,6 @@
 
 ![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red)
 ![Kali](https://img.shields.io/badge/Kali_Linux-v2026.1-purple)
-![Skill](https://img.shields.io/badge/Skill-Linux-red)
 ![Skill](https://img.shields.io/badge/Penetration_Testing-Skill-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Official--Samuel--Ntuen-black?logo=github)
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-orange)
